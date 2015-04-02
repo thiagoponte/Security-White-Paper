@@ -1,6 +1,8 @@
 The WordPress Security White Paper
 ==========
 
+[![Join the chat at https://gitter.im/thiagoponte/Security-White-Paper](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thiagoponte/Security-White-Paper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The WordPress Security White Paper is available <a href="https://wordpress.org/about/security/">directly on the WordPress.org site on WordPress.org/about/security</a>. The HTML and PDF versions are available here at WordPress's GitHub repository for any updates and/or additions. If you notice any typos or would like to suggest any changes, please contribute a pull request.
 
 Thank you to all who contributed to the initial release and compilation of the white paper: Barry Abrahamson, Michael Adams, Jon Cave, Helen Hou-Sandí, Dion Hulse, Mo Jangda, and Paul Maiorana.
